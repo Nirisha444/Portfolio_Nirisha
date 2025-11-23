@@ -1,6 +1,7 @@
 body {
     background: black;
     margin: 0;
+    font-family: "Times New Roman", serif;
 }
 
 header {
@@ -40,7 +41,6 @@ section {
     text-align: center;
     color: white;
     font-size: 18px;
-    font-family: "Times New Roman", serif;
 }
 
 .about-container {
